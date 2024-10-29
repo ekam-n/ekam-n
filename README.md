@@ -4,9 +4,9 @@ I'm a student at Simon Fraser University majoring in Interactive Arts and Techno
 
 # General Info
 - 🌱 I’m currently learning Game Design and Development, Visual Computing, AI, and Data Science
-- 💬 Ask me about my Rocket League obsession 
-- 📫 Email me: ekamnijjar@gmail.com
 - 📽️ Check out my portfolio: ekam-n.github.io
+- 📫 Email me: ekamnijjar@gmail.com
+- 💬 Ask me about my Rocket League obsession 
 
 # Strengths
 - Java
