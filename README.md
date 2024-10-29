@@ -8,7 +8,7 @@ I'm a student at Simon Fraser University majoring in Interactive Arts and Techno
 - 📫 Email me: ekamnijjar@gmail.com
 - 📽️ Check out my portfolio: ekam-n.github.io
 
-# Skills
+# Strengths
 - Java
 - C++
 - OOP
