@@ -1,4 +1,4 @@
-# Ekam Nijjar
+# Hi
 
 I'm a student at Simon Fraser University majoring in Interactive Arts and Technology and minoring in Computer Science.
 
