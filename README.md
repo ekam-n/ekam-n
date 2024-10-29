@@ -1,16 +1,16 @@
-## Hi there 👋
+# Ekam Nijjar
 
-<!--
-**ekam-n/ekam-n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student at Simon Fraser University majoring in Interactive Arts and Technology and minoring in Computer Science.
 
-Here are some ideas to get you started:
+# General Info
+- 🌱 I’m currently learning Game Design and Development, Visual Computing, and AI and Data Science
+- 💬 Ask me about my Rocket League obsession 
+- 📫 Email me: ekamnijjar@gmail.com
+- 📽️ Check out my portfolio: ekam-n.github.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Skills
+- Java
+- C++
+- OOP
+- 2D Complex Object Behaviours
+- Multimedia Programming
