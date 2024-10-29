@@ -1,4 +1,4 @@
-# Hi
+# Hi, I'm Ekam
 
 I'm a student at Simon Fraser University majoring in Interactive Arts and Technology and minoring in Computer Science.
 
